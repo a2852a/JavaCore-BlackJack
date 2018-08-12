@@ -1,5 +1,5 @@
 # JavaCore-BlackJack
-release
+release(czysty kod, bez zdjęć kart i ikon - (req) )
 
 Black jack napisany w Java Core z wykorzystaniem JavaFX do GUI. Karty wyswietlane w sposob graficzny na podstawie sczytania obrazkow
 z zasobow (Brak w wydaniu z obawy na wzgledy licencyjne - sam kod). Mozliwosc symulacji do 2 dodatkowych graczy - wszyscy graja rownolegle
